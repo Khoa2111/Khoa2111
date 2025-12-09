@@ -49,12 +49,12 @@ Java • Maven • JPA/Hibernate • MySQL • REST API • Git • GitHub • J
 
 ---
 
-## ✉️ Liên hệ
-- Email: `<<ngdangkhoa74@gmail.com>>`  
-- LinkedIn: `<<https://www.linkedin.com/in/your-linkedin>>`  
-- CV (PDF): [NguyenDangKhoa_CV.pdf](https://github.com/Khoa2111/your-repo/raw/main/cv/NguyenDangKhoa_CV.pdf) *(hoặc cập link Google Drive)*
+#### 💌 Liên hệ
 
----
+- **Email:** ngdangkhoa74@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/your-linkedin  
+- **CV (PDF):** [NguyenDangKhoa_CV.pdf](NguyenDangKhoa_CV.pdf)
+
 
 
 
